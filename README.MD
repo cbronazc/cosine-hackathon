@@ -6,4 +6,4 @@ or for content engine go into that folder and then run each of these in a differ
 
 * redis-server (separate terminal)
 * python web.py
-* from the engines.py file run the train CURL and then the predict CURL
+* from the web.py file run the train CURL (3rd one) and then the predict CURL (1st one)
